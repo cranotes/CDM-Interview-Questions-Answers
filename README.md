@@ -52,13 +52,13 @@
 
 ## Tell me about the sorting and filter function in excel?
 
-What is Data Warehouse? What is SDC? Difference between Joiner and Union transformations.
+## What is Data Warehouse? What is SDC? Difference between Joiner and Union transformations.
 
-Describe your knowledge of R or other statistical software
+## Describe your knowledge of R or other statistical software
 
-Do you have experience with SQL or queries?
+## Do you have experience with SQL or queries?
 
-What skills would a data manager need?
+## What skills would a data manager need?
 
 
 
