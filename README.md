@@ -1,6 +1,24 @@
 # CDM-Interview-Questions-Answers
 
 
+## Clinical Data Management encompasses
+
+**Case Report Form designing** 
+**Case Report Form annotation** 
+**Database designing** 
+**Data entry** 
+**Data validation** 
+**Discrepancy management** 
+**Medical coding** 
+**Data extraction** 
+**And database locking**
+
+
+
+
+
+
+
 ## What are your responsibilities in your current position?
 
 **I am part of team that builds and manages a business relationship with facilities that are partnered with our company. I am in charge of distributing our team's workload, reaching out to these facilities, and compiling reports required by management. I have to do a lot of data structuring and cleaning to make these reports as useful as possible.**
