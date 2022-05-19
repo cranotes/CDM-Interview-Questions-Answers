@@ -25,7 +25,7 @@
 
 ## What is DCF (data clarification form)?
 
-**Its a data clarification form or query form is questionnaire specifically used in clinical research**
+**Its a data clarification form or query form. Its a questionnaire specifically used in clinical research**
 
 ## How would you handle being handed a protocol?
 
