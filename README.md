@@ -4,13 +4,21 @@
 ## Clinical Data Management encompasses
 
 **Case Report Form designing** 
+
 **Case Report Form annotation** 
+
 **Database designing** 
+
 **Data entry** 
+
 **Data validation** 
+
 **Discrepancy management** 
+
 **Medical coding** 
+
 **Data extraction** 
+
 **And database locking**
 
 
